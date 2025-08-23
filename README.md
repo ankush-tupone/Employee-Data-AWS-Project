@@ -47,11 +47,6 @@ Employee-Data-AWS-Project/
 
 ---
 
-Demo Screenshot
-(Add a screenshot of your webpage here after hosting on AWS or running locally)
-
----
-
  Tech Stack
 - Frontend: HTML, CSS, JavaScript (jQuery)  
 - Backend: AWS Lambda (Python)  
