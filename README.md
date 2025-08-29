@@ -24,13 +24,13 @@ It demonstrates the use of **Serverless Architecture** using AWS services: API G
 Employee-Data-AWS-Project/
 
 │── index.html             Frontend UI
-
+|
 │── scripts.js             JavaScript (AJAX calls to API Gateway)
-
+|
 │── insertEmployeeData.py  Lambda function to insert data
-
+|
 │── getEmployees.py        Lambda function to fetch data
-
+|
 └── README.md              Project documentation
 
 
