@@ -20,6 +20,7 @@ It demonstrates the use of **Serverless Architecture** using AWS services: API G
 
  Project Structure
  ---
+ 
 Employee-Data-AWS-Project/
 │── index.html             Frontend UI
 │── scripts.js             JavaScript (AJAX calls to API Gateway)
@@ -27,9 +28,6 @@ Employee-Data-AWS-Project/
 │── getEmployees.py        Lambda function to fetch data
 └── README.md              Project documentation
 
-
-
----
 
  Features
  ---
