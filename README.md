@@ -29,6 +29,12 @@ Employee-Data-AWS-Project/
 └── README.md              Project documentation
 
 
+
+
+
+
+
+
  Features
  ---
 - Add Employee Data (Employee ID, Name, Department, Salary)  
