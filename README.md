@@ -17,6 +17,7 @@ It demonstrates the use of **Serverless Architecture** using AWS services: API G
 
 
  Project Structure
+ ---
 Employee-Data-AWS-Project/
 │── index.html             Frontend UI
 │── scripts.js             JavaScript (AJAX calls to API Gateway)
@@ -29,6 +30,7 @@ Employee-Data-AWS-Project/
 ---
 
  Features
+ ---
 - Add Employee Data (Employee ID, Name, Department, Salary)  
 - View All Employees stored in DynamoDB  
 - Serverless Implementation using AWS Lambda + API Gateway  
@@ -37,6 +39,7 @@ Employee-Data-AWS-Project/
 ---
 
  How It Works
+ ---
 1. User enters employee details in the web form (index.html)  
 2. `scripts.js` makes an AJAX POST request to API Gateway  
 3. API Gateway triggers Lambda function (insertEmployeeData.py) → saves data into DynamoDB  
@@ -47,6 +50,7 @@ Employee-Data-AWS-Project/
 ---
 
  Tech Stack
+ ---
 - Frontend: HTML, CSS, JavaScript (jQuery)  
 - Backend: AWS Lambda (Python)  
 - Database: AWS DynamoDB  
@@ -55,6 +59,7 @@ Employee-Data-AWS-Project/
 ---
 
  Steps to Deploy on AWS
+ ---
 1. Create a DynamoDB table named `employeeData` with `employeeid` as the primary key.  
 2. Create two AWS Lambda functions:
    - Upload `insertEmployeeData.py` → for inserting data  
