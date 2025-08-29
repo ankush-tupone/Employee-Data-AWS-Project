@@ -5,6 +5,7 @@ This is a simple AWS-based web application that allows you to store and retrieve
 It demonstrates the use of **Serverless Architecture** using AWS services: API Gateway, Lambda, and DynamoDB.
 
  Architecture
+ ---
 1. Frontend → HTML, CSS, JavaScript (AJAX calls with jQuery)  
 2. API Gateway → Acts as the entry point for API requests  
 3. AWS Lambda → Two Python functions:
