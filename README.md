@@ -4,8 +4,9 @@ Project Overview
 This is a simple AWS-based web application that allows you to store and retrieve employee details.  
 It demonstrates the use of **Serverless Architecture** using AWS services: API Gateway, Lambda, and DynamoDB.
 ---
-![Home Page](https://github.com/ankush-tupone/Employee-Data-AWS-Project/raw/main/homepage.png)
+![Home Page](Home-Page.png)
  Architecture
+ 
  ---
 1. Frontend → HTML, CSS, JavaScript (AJAX calls with jQuery)  
 2. API Gateway → Acts as the entry point for API requests  
